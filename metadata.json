@@ -1,0 +1,6 @@
+{
+  "name": "EDU CARS — Especialista em cuidar do seu carro",
+  "description": "Estética automotiva especializada em cristalização de vidros e faróis, lavagem técnica de motor, polimento automotivo e revitalização de painéis em Pirassununga - SP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
